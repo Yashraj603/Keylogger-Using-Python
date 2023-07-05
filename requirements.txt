@@ -1,0 +1,5 @@
+1] Python Language Software
+2] pynput,tkinter,pillow libraries installed in python
+3] CommandPrompt
+
+
